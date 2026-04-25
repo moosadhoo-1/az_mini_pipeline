@@ -1,0 +1,6 @@
+id,date,user,amount,city
+1,2023-03-01,Anna, 450,StUttgArt
+2,2023-03-01,Mike, 150,manchester
+3,2024-03-02,Tom, 100,london
+4,2024-03-02,Anton, -150,Munich
+5,2022-03-05,Lauren, -350,BERLIN
